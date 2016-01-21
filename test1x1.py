@@ -1,4 +1,5 @@
 print("Welcome")
 print("to test program 1x1")
 print("Hello, World!")
-print("input")
+c= input("input number: ")
+print(c)
